@@ -523,7 +523,7 @@
     </plurals>
     <plurals name="albums">
         <item quantity="one">Álbum</item>
-        <item quantity="other">Álbumés</item>
+        <item quantity="other">Álbumes</item>
     </plurals>
     <plurals name="numSongs">
         <item quantity="one">%d Canción</item>
